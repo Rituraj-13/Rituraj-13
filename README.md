@@ -29,7 +29,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rituraj-13&show_icons=true&theme=radical&" alt="Rituraj Dey" /></p> 
-<p align="center">
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-13&show_icons=true&include_all_commits=true&theme=algolia&hide=stars" alt="Rituraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-13&card_width=400&card_height=500pxpx&layout=default&hide_title=true&theme=radical" /></a>
 
 
