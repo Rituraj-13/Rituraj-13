@@ -30,7 +30,7 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rituraj-13&show_icons=true&theme=radical&" alt="Rituraj Dey" /></p> 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-13&show_icons=true&&card_width=480include_all_commits=true&theme=algolia&hide=stars" alt="Rituraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-13&card_width=350&card_height=480pxpx&layout=default&hide_title=true&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-13&show_icons=true&&card_width=480&card_height=480pxinclude_all_commits=true&theme=algolia&hide=stars" alt="Rituraj's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-13&card_width=350&card_height=480px&layout=default&hide_title=true&theme=radical" /></a>
 
 
 </p>
