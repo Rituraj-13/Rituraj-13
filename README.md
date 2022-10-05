@@ -6,7 +6,7 @@
 
 <h2 align="left">About Me:</h2> 
 
-- 🧑‍💻 A **Self taught programeer** & a **Tech Geek**
+- 🧑‍💻 A **Self taught programmer** & a **Tech Geek**
 
 - 🔭 I’m currently working on **Hacktoberfest 2022**
 
