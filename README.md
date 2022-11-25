@@ -8,9 +8,9 @@
 
 - 🧑‍💻 A **Self taught programmer** & a **Tech Geek**
 
-- 🔭 I’m currently working on **Hacktoberfest 2022**
+- 🔭 I’m currently working on **Web Development & DSA**
 
-- 🌱 I’m currently learning **New Technologies**
+- 🌱 I’m currently learning **Full stack development**
 
 - 📫 How to reach me **riturajdey01@gmail.com**
 
