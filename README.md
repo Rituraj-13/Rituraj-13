@@ -28,11 +28,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rituraj-13&show_icons=true&theme=radical&" alt="Rituraj Dey" /></p> 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-13&show_icons=true&&card_width=480&card_height=480pxinclude_all_commits=true&theme=algolia&hide=stars" alt="Rituraj's github stats" /></a>
-
-<p align="center"><a href="https://github.com/Rituraj-13"><img align="center" alt="Rituraj-13's contribution graph" src="https://activity-graph.herokuapp.com/graph?username=Rituraj-13&theme=github-dark&custom_title=GitHub%20Contribution%20Graph" /></a>
 
 
 </p>
