@@ -6,8 +6,6 @@
 
 <h2 align="left">About Me:</h2> 
 
-- 🧑‍💻 A **Self taught programmer** & a **Tech Geek**
-
 - 🔭 I’m currently working on **Web Development & DSA**
 
 - 🌱 I’m currently learning **Full stack development**
