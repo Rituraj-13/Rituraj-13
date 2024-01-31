@@ -32,7 +32,7 @@
 <h3 align="left">Projects Built:</h3>
 <div style="display: flex;">
     <a href="https://github.com/Rituraj-13/Todo-Webapp"><img style="width: 200px; height: 200px;" src="./assets/todo_webapp.png" alt=""></a>
-    <a href="https://github.com/Rituraj-13/weatherApp"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/weather_view.png" alt=""></a>
+    <a href="https://github.com/Rituraj-13/Weather-View"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/weather_view.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Rock-Paper-Scissor-Game"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/game.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Tip-Calculator"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/tip_calculator.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Password-Generator"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/password_generator.png" alt=""></a>
