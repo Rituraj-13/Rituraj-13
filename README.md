@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/rituraj__13" target="blank"><img src="https://img.shields.io/twitter/follow/riturajdey_13?logo=twitter&style=for-the-badge" alt="riturajdey_13" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**.
+- 🌱 I’m currently learning **Golang & Full Stack Web Development**.
 
 - 📫 How to reach me - **riturajdey01@gmail.com**
+
+- ✨Portfolio - **<a href="riturajdey.dev"/>riturajdey.dev</a>**
 
 <hr>
 
@@ -29,12 +31,11 @@
 <hr>
 
 
-<h3 align="left">Projects Built:</h3>
+<!-- <h3 align="left">Projects Built:</h3>
 <div style="display: flex;">
-<!--     <a href="https://goalarc.riturajdey.com"><img style="width: 200px; height: 200px;" src="./assets/Goalarc.png" alt=""></a> -->
     <a href="https://github.com/Rituraj-13/Weather-View"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/weather_view.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Rock-Paper-Scissor-Game"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/game.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Tip-Calculator"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/tip_calculator.png" alt=""></a>
     <a href="https://github.com/Rituraj-13/Password-Generator"><img style="width: 200px; height: 200px; margin-left: 10px;" src="./assets/password_generator.png" alt=""></a>
-</div>
+</div> -->
 
