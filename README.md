@@ -116,6 +116,12 @@ education: BCA @ Brainware University — 9.56 CGPA
 
 <br/>
 
+> **[`Qubit`](https://github.com/Rituraj-13/Qubit)** — AI and Web Powered Chat app like Perplexity *(Full Stack)*
+>
+> Supabase Auth · Web Search · AI Chat · Chat Management · Share Chats 
+>
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 > **[`workout-tracker-api`](https://github.com/Rituraj-13/Workout-Tracker)** — Production-grade RESTful backend in Go
 >
 > Bearer token auth · bcrypt · Goose migrations · Transactional writes · Integration tests · Docker Compose
