@@ -51,10 +51,10 @@ education: BCA @ Brainware University — 9.56 CGPA
 
 **`/languages`**
 ```
-├── Go          ████████░░
-├── TypeScript  ███████░░░
-├── JavaScript  ███████░░░
-├── HTML/CSS    ██████░░░░
+├── Go       
+├── TypeScript        
+├── JavaScript   
+├── HTML/CSS      
 ```
 
 </td>
@@ -62,10 +62,10 @@ education: BCA @ Brainware University — 9.56 CGPA
 
 **`/frontend`**
 ```
-├── React.js
-├── Next.js
-├── Tailwind CSS
-└── Vite
+├── React.js   
+├── Next.js    
+├── Tailwind CSS    
+└── Vite   
 ```
 
 **`/backend`**
@@ -80,12 +80,12 @@ education: BCA @ Brainware University — 9.56 CGPA
 
 **`/infra`**
 ```
-├── Docker
-├── GitHub Actions
-├── AWS
-├── PostgreSQL
-├── MongoDB
-└── Prisma ORM
+├── Docker     
+├── GitHub Actions    
+├── AWS    
+├── PostgreSQL    
+├── MongoDB    
+└── Prisma ORM    
 ```
 
 </td>
