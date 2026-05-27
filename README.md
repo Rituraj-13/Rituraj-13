@@ -82,7 +82,7 @@ education: BCA @ Brainware University — 9.56 CGPA
 ```
 ├── Docker
 ├── GitHub Actions
-├── Azure
+├── AWS
 ├── PostgreSQL
 ├── MongoDB
 └── Prisma ORM
